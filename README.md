@@ -1,4 +1,4 @@
-# No-React Personal Portfolio
+# Portfolio 2022
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/0519c348-6f67-4d68-b628-9abd96c25307/deploy-status)](https://app.netlify.com/sites/waqar-folio/deploys)
 
